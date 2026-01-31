@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo
+motor
+bcrypt
+python-jose[cryptography]==3.3.0
+python-multipart
+pydantic[email]
